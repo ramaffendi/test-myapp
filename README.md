@@ -4,4 +4,4 @@ RepoList - React & Bootstrap
 
 Fitur
 Menampilkan daftar repository dengan nama, deskripsi, dan jumlah bintang 
-Desain responsif dengan Bootstrap untuk tampilan yang rapi
+Desain responsif dengan Bootstrap untuk tampilan yang rapi | Link Demo : https://ramaffendi.github.io/test-myapp/
